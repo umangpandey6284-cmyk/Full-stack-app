@@ -1,0 +1,5 @@
+{
+  "name": "BharatShop - Indian E-commerce",
+  "description": "A full-stack mobile-first e-commerce application for India with Admin Panel and Cash on Delivery.",
+  "requestFramePermissions": ["camera"]
+}
